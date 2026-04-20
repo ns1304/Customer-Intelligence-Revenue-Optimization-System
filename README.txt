@@ -20,4 +20,3 @@ Logistic Regression model to predict churn
 - Optimize pricing
 
 ### 📷 Dashboard
-(Add screenshots here)
