@@ -19,4 +19,4 @@ Logistic Regression model to predict churn
 - Target high-value customers
 - Optimize pricing
 
-### 📷 Dashboard
+### 📷 Dashboar
